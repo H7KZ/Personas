@@ -1,0 +1,5 @@
+prefix: "&7[Personas]&r"
+
+messages:
+  requires-permission: "&cK tomuto příkazu nemáš oprávnění!"
+  invalid-args: "&cNeplatné argumenty!"

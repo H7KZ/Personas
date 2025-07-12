@@ -1,0 +1,5 @@
+prefix: "&7[Personas]&r"
+
+messages:
+  requires-permission: "&cYou do not have permission to do that!"
+  invalid-args: "&cInvalid arguments!"

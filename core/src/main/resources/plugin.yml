@@ -1,0 +1,24 @@
+name: Personas
+version: 6.2.0
+main: com.jankominek.personas.Personas
+api-version: 1.18
+
+author: Jan Komínek
+website: https://github.com/H7KZ/Personas
+
+softdepend: [ Vault ]
+
+commands:
+  personas:
+    description: 'Personas command'
+    aliases:
+      - personas
+      - persona
+    usage: '/<command>'
+    permission: personas.command.use
+    permission-message: You don't have permission to use this command.
+
+permissions:
+  personas.all:
+    description: Access to everything/all permissions.
+    default: op

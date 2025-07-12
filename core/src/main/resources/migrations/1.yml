@@ -1,0 +1,12 @@
+# ↓ DO NOT EDIT THESE VALUES ↓
+migration: 1
+locales: [ "cs", "en" ]
+# ↑ DO NOT EDIT THESE VALUES ↑
+# ----------------------------------------------------------------------------------------
+# For descriptions of each option, see the wiki:
+# https://github.com/H7KZ/Personas/CONFIG.md
+# ----------------------------------------------------------------------------------------
+
+enabled: true
+
+locale: "en"
